@@ -1,2 +1,2 @@
-# Classificados
-Exercicios de sistemas de classificados como a OLX
+## parei aqui
+https://alunos.b7web.com.br/curso/pzp/site-de-classificados-211
